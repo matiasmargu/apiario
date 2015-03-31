@@ -13,4 +13,8 @@ class Golondrina {
 		energia -= km * 5
 	}
 	
+	def come(int gramos){
+		
+	energia += gramos * gramos
+	}
 }
